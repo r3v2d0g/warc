@@ -1,0 +1,13 @@
+[package]
+name = "warcptr"
+description = "Weighted Atomically Reference Counted Pointer"
+version = "0.1.0"
+homepage = "https://github.com/r3v2d0g/warc"
+repository = "https://github.com/r3v2d0g/warc"
+documentation = "https://docs.rs/warc"
+keywords = []
+categories = []
+readme = "README.md"
+license = "MPL-2.0"
+authors = ["Matthieu Le brazidec (r3v2d0g) <r3v2d0g@jesus.gg>"]
+edition = "2018"
